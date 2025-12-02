@@ -1,0 +1,20 @@
+* 83f6ea0 2025-11-23 Zmiana2kolory| 
+|  lab_3/redme.md |  7 ++-----
+|  src/styl.css   | 30 ++++++++++++++++++++++++++++++
+|  tekst.html     | 13 +++++++------
+|  3 files changed, 39 insertions(+), 11 deletions(-)
+
+*   5c6055e 2025-11-23 Merge branch 'Galaz2'
+|\  
+| * 092cda0 2025-11-23 Galaz2HTMLv1
+|/  |   
+|    Scorpius.jpeg | Bin 0 -> 6392 bytes
+|    tekst.html    |  32 ++++++++++++++++++++++++++++++++
+|    2 files changed, 32 insertions(+)
+
+* a2e3cd6 2025-11-23 Pierwsza wersja  
+   lab_3/LICENCE.md      |  21 +++++++++++++++++++++
+   lab_3/redme.md        |  19 +++++++++++++++++++
+   lab_3/src/nasa_01.png | Bin 0 -> 47867877 bytes
+   lab_3/src/style.css   |  19 +++++++++++++++++++
+   4 files changed, 59 insertions(+)

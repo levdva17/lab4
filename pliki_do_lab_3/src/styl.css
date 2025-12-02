@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(12, 12, 14);
+}
+h1{
+    color: rgb(53, 36, 145);
+}
+h2{
+  color:rgb(53, 36, 145);
+}
+p{
+  color:rgb(17, 143, 143);
+}
+h3{
+  color:rgb(78, 2, 78);
+}
+footer{
+  font-size: 300%;
+  color:rgb(15, 40, 91);
+  background-color: rgb(6, 6, 75);
+      min-width: 300px;
+      max-width: 450px;
+    min-height: 50px;
+}
+nav{
+  font-size: 150%;
+  background-color: rgb(48, 2, 48);
+  color: rgb(34, 34, 236);
+  min-width: 300px;
+    min-height: 40px;
+}
