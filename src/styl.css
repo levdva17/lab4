@@ -1,35 +1,59 @@
-body {
-  background-color: rgb(12, 12, 14);
+body{
+    background-color: azure;
+    color: #808080;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1{
-    color: rgb(53, 36, 145);
+/* unvisited link */
+a:link {
+
+    color: #6e0436;
+    text-decoration: none;
 }
-h2{
-  color:rgb(53, 36, 145);
+
+/* visited link */
+a:visited {
+    color: #430253;
 }
-p{
-  color:rgb(17, 143, 143);
+
+/* mouse over link */
+a:hover {
+    color: #f8f1ff;
 }
-h3{
-  color:rgb(78, 2, 78);
-}
-footer{
-  font-size: 300%;
-  color:rgb(15, 40, 91);
-  background-color: rgb(6, 6, 75);
-      min-width: 300px;
-      max-width: 450px;
-    min-height: 50px;
+
+/* selected link */
+a:active {
+    color: #D90368;
 }
 nav{
-  font-size: 150%;
-  background-color: rgb(48, 2, 48);
-  color: rgb(34, 34, 236);
-  min-width: 300px;
-    min-height: 40px;
+    display: inline-block;
+    padding: 10px;
 }
+article{
+    padding: 10px;
+}
+.button{
+    font-size: 12pt;
+    display: inline-block;
+    min-height: 30px;
+    min-width: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px 10px 10px 5px;
+    margin: 2px;
+}
+.button:hover{
+    background-color: #808080;
+    filter: drop-shadow(2px 2px 5px #808080);
+    border-radius: 3px;
+}
+
 #s208562 {
     color: #FFFFFF;
     background-color: #90bdff;
+    padding: 15px;
+}
+#s208109 {
+    color: #FFF700;
+    background-color: #3D3D3D;
     padding: 15px;
 }
