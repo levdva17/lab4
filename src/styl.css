@@ -51,3 +51,14 @@ footer{
     border-radius: 10px;
     margin-top: 10px;
 }
+
+#s208562 {
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: justify;
+    
+    background-color: #8fb483;
+    color: #292929;
+    border: 1px solid #75B09C; 
+}
