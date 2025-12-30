@@ -1,59 +1,37 @@
+/* 
+HEXy pasujacych so siebie kolorow 
+z ktorych korzystamy:
+
+D8F793 light green
+A0CA92 darker green
+75B09C ligt teal
+998650 brownish
+E0BE36 golden yellow
+*/
+
 body{
-    background-color: azure;
-    color: #808080;
+    background-color: #D8F793;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-/* unvisited link */
-a:link {
-
-    color: #6e0436;
-    text-decoration: none;
+    color: #212121;
 }
 
-/* visited link */
-a:visited {
-    color: #430253;
-}
-
-/* mouse over link */
-a:hover {
-    color: #f8f1ff;
-}
-
-/* selected link */
-a:active {
-    color: #D90368;
-}
-nav{
-    display: inline-block;
-    padding: 10px;
-}
-article{
-    padding: 10px;
-}
-.button{
-    font-size: 12pt;
-    display: inline-block;
-    min-height: 30px;
-    min-width: 100px;
-    background-color: aquamarine;
+header{
+    background-color: #A0CA92;
+    padding: 20px;
     text-align: center;
-    padding: 5px 10px 10px 5px;
-    margin: 2px;
-}
-.button:hover{
-    background-color: #808080;
-    filter: drop-shadow(2px 2px 5px #808080);
-    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 75%;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 
-#s208562 {
-    color: #FFFFFF;
-    background-color: #90bdff;
-    padding: 15px;
-}
-#s208109 {
-    color: #FFF700;
-    background-color: #3D3D3D;
-    padding: 15px;
+main{
+    background-color: #A0CA92;
+    padding: 20px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 75%;
+    border-radius: 10px;
 }
